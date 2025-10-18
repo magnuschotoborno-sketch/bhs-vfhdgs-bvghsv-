@@ -1,0 +1,20 @@
+body{
+    text-align: center;
+}
+h1{
+    text-align: center;
+    font-size: 17em;
+    font-family: Verdana;
+}
+button{
+    background-color: rgb(220, 157, 20);
+    color: whitesmoke;
+    transition: 25;
+    padding: 10px 20px;
+    align-content: center;
+    font-size: 7em;
+    font-family: Verdana;
+}
+button:hover{
+    background-color: darkmagenta;
+}
